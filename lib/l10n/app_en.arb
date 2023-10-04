@@ -1,0 +1,11 @@
+{
+  "newsApp": "NewsApp",
+  "sports": "Sports",
+  "technology": "Technology",
+  "health": "Health",
+  "business":  "Business",
+  "entertainment": "Entertainment",
+  "science": "Science",
+  "categories": "Categories",
+  "settings": "Settings"
+}
